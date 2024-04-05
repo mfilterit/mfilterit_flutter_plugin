@@ -1,7 +1,7 @@
 name: mfilterit_sdk
 description: "Flutter plugin for the mFilterIt AppFraud Android Java SDK"
 version: 1.0.0
-homepage: https://github.com/akhil1999/mfilterit_flutter_plugin
+homepage: https://github.com/mfilterit/mfilterit_flutter_plugin
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
